@@ -9,10 +9,7 @@ import java.util.Scanner;
 public class App 
 {
 	
-	/**
-	 * In der main methode wird etwas von der tastatur eingelesen 
-	 * und in grossbuchstaben ausgegeben
-	 */
+
 	
     public static void main( String[] args )
     {
